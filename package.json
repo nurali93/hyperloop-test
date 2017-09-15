@@ -1,0 +1,18 @@
+{
+  "name": "rserverless-dev-stack",
+  "version": "1.0.0",
+  "description": "Rack, Opal and Hyperloop build env",
+  "main": "index.js",
+  "dependencies": {
+    "ruby-hyperloop": "^0.0.4"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.20.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barrie Hadfield",
+  "license": "MIT"
+}
